@@ -1,6 +1,6 @@
 module eino-sample
 
-go 1.24
+go 1.25
 
 require (
 	github.com/cloudwego/eino v0.4.3
@@ -17,8 +17,8 @@ require (
 require (
 	github.com/PuerkitoBio/goquery v1.10.3 // indirect
 	github.com/andybalholm/cascadia v1.3.3 // indirect
-	github.com/bytedance/sonic v1.13.2 // indirect
-	github.com/bytedance/sonic/loader v0.2.4 // indirect
+	github.com/bytedance/sonic v1.14.0 // indirect
+	github.com/bytedance/sonic/loader v0.3.0 // indirect
 	github.com/chromedp/cdproto v0.0.0-20250319231242-a755498943c8 // indirect
 	github.com/chromedp/chromedp v0.13.3 // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
