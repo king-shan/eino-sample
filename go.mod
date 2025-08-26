@@ -2,8 +2,6 @@ module eino-sample
 
 go 1.24
 
-toolchain go1.24.6
-
 require (
 	github.com/cloudwego/eino v0.4.3
 	github.com/cloudwego/eino-ext/components/document/transformer/splitter/markdown v0.0.0-20250822023757-dbf41c9449b9
